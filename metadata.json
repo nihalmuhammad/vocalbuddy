@@ -1,0 +1,7 @@
+{
+  "name": "VocalEase TTS",
+  "description": "A premium Text-to-Speech application supporting English and Malayalam. Generate high-quality voiceovers and download them for sharing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
